@@ -12,6 +12,6 @@ I'm a fourth-year PhD student from IIIS, Tsinghua University. My research intere
 
 I'm advised by Prof. Huanchen Zhang.
 
-You can find my CV here Junyi's Curriculum Vitae(../assets/Curriculum_Vitae.pdf).
+You can find my CV here Junyi's Curriculum Vitae(../assets/CV.pdf).
 
 [Email](mailto:zhaojy20@mails.tsinghua.edu.cn) / [Github](https://github.com/zzjjyyy)
